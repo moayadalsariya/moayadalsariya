@@ -2,13 +2,9 @@
 #### I am Full Stack Developer | Data Analysis
 I'm Moayad Alsaryia, I enjoy working with Nodejs and MongoDB and Data Analysis with python and jupyter notebook
 
-Skills:
-* HTML
-* CSS
-* JAVASCRIPT
-* Bootstrap
-* NodeJS
-* MongoDB
+## Skills:
+* HTML, CSS, JAVASCRIPT, Bootstrap
+* NodeJS, MongoDB
 * Python Data Analysis
 
 - 📫 How to reach me: moayad.alsariya@gmail.com 
