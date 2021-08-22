@@ -4,7 +4,7 @@ I'm Moayad Alsaryia, I enjoy working with Nodejs and MongoDB and Data Analysis w
 
 ## Skills:
 * HTML, CSS, JAVASCRIPT, Bootstrap
-* NodeJS, MongoDB
+* NodeJS, PHP, Laravel, MongoDB, MySQL
 * Python Data Analysis
 
 - 📫 How to reach me: moayad.alsariya@gmail.com 
